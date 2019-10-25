@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/cleanblog",
+    "prod_uri":"mysql://root:@localhost/cleanblog",
+    "fb_url": "http://facebook.com",
+    "twitter_url": "http://twitter.com",
+    "git_url": "http://git.com",
+    "blog_name": "Dev Blog",
+    "mail-username": "rehansingh.4522@gmail.com",
+    "mail-password": "Devraj123@",
+    "about_text": "Hi! my name is dev.",
+    "admin_user": "dev",
+    "admin_password": "1234",
+    "login_image":"logo.svg",
+    "admin_heading": "Admin Page",
+    "upload_location": "C:\\Users\\Dev devloper\\PycharmProjects\\flask\\static\\img"
+  }
+}
